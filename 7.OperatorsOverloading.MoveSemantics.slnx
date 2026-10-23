@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.AssigmentOperator/01.AssigmentOperator.vcxproj" Id="c18abf10-48fd-44c6-9953-a802880f9d97" />
+  <Project Path="02.MoveSemantics/02.MoveSemantics.vcxproj" Id="f91eadfc-f798-40e4-a33f-7c4da146c2ef" />
+  <Project Path="HomeWork27/HomeWork27.vcxproj" Id="2263f45d-d737-455e-90a8-ebce50bdfea6" />
+</Solution>
